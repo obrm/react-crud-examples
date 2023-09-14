@@ -2,10 +2,6 @@
 
 This repository demonstrates the application of React to create CRUD (Create, Read, Update, Delete) interfaces. Each project within this repository serves as a standalone example of specific CRUD operations and how they can be implemented in React.
 
-## Introduction
-
-CRUD operations are the foundation of many web applications. Utilizing React's component-based architecture, we can efficiently create reusable UI components to manage these operations. This repository aims to exhibit various ways to achieve this.
-
 ## Resources
 
 - [React Official Documentation](https://reactjs.org/)
